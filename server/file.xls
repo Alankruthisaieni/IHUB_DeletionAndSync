@@ -1,0 +1,45 @@
+Actual inputted data
+{
+  name: 'ux',
+  gender: 'male',
+  dob: 2022-05-31T00:00:00.000Z,
+  age: 12,
+  address: 'bvjgh',
+  phone: 9999999999,
+  email: 'ux@gmail.com',
+  password: 'ux',
+  profileImg: 'Capture03.PNG',
+  _id: new ObjectId("6282748013babba4f0470994"),
+  tokens: []
+}
+Matching data
+{
+  _id: new ObjectId("62826d03368cb1f9ee974035"),
+  name: 'ux',
+  gender: 'jkkh',
+  dob: 2022-05-20T00:00:00.000Z,
+  age: 12,
+  address: 'hjbu',
+  phone: 8888888,
+  email: 'ux@gmail.com',
+  password: '$2a$12$BBWvaZM6T7wL2Sn3xyUNIeprgmEp.IFODq9P2oRVoA8VsufdxBCtu',
+  profileImg: 'Capture3.PNG',
+  tokens: [],
+  __v: 0
+}
+{
+  _id: new ObjectId("62826d03368cb1f9ee974035"),
+  name: 'ux',
+  gender: 'jkkh',
+  dob: 2022-05-20T00:00:00.000Z,
+  age: 12,
+  address: 'hjbu',
+  phone: 8888888,
+  email: 'ux@gmail.com',
+  password: '$2a$12$BBWvaZM6T7wL2Sn3xyUNIeprgmEp.IFODq9P2oRVoA8VsufdxBCtu',
+  profileImg: 'Capture3.PNG',
+  tokens: [],
+  __v: 0
+}
+null
+null

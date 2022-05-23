@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap");
+
+* {
+  font-family: "Poppins", "sans-serif";
+  background-color: #f7f8f7;
+}
+
+.home,
+.notfound-404 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 200px;
+  align-items: center;
+}
+.notfound-404 h1 {
+  opacity: 0.3;
+  font-size: 120px;
+}
+.notfound-404 h2 {
+  margin-top: 10px;
+}
+display-flex,
+.display-flex,
+.display-flex-center,
+.signup-content,
+.signin-content,
+.social-login,
+.socials {
+  display: flex;
+  display: -webkit-flex;
+}
+/* @list-type-ulli */
+list-type-ulli,
+.socials {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.signup-content {
+  text-align: center;
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.signup-form h2 {
+  margin-bottom: 30px;
+}
+.signup-form {
+  padding: 30px;
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.form-group {
+  margin: 15px;
+  outline: none;
+}
+.form-group i {
+  margin-right: 10px;
+}
+.form-group input {
+  width: 300px;
+  border-width: 0 0 2px;
+  outline: none;
+}
+.form-group input:focus,
+textarea:focus {
+  outline: none;
+}
+textarea {
+  width: 300px;
+  height: 100px;
+  outline: none;
+  border-width: 0 0 2px;
+}
+.form-button input,
+.profile-edit-btn {
+  background-color: purple;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 10px;
+  margin-top: 20px;
+  border: none;
+  font-size: 16px;
+  display: inline-block;
+  width: 100%;
+  padding: 8px 10px;
+}
+.form-button input:hover {
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+}
+input[type="text"]:focus,
+input[type="password"]:focus {
+  outline: none;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.field {
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+  padding: 50px;
+  width: 500px;
+}

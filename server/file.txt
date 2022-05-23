@@ -1,0 +1,34 @@
+Actual inputted data
+{
+  name: 'priyanka chopra',
+  gender: 'female',
+  dob: 2015-06-21T00:00:00.000Z,
+  age: 12,
+  address: 'hyd',
+  phone: 94587804923,
+  email: 'priyankaC@gmail.com',
+  password: 'priyankac',
+  profileImg: 'Capture.PNG',
+  timestamp: 2022-05-21T16:47:42.068Z,
+  _id: new ObjectId("62891b237a3ba34ce0cd7d3b"),
+  tokens: []
+}
+Matching data
+null
+null
+{
+  _id: new ObjectId("6288715aaf60c9afcf6a0c5b"),
+  name: 'Yamini',
+  gender: 'Female',
+  dob: 2015-06-21T00:00:00.000Z,
+  age: 12,
+  address: 'hyd',
+  phone: 7777777777777,
+  email: 'yamini@gmail.com',
+  password: '$2a$12$mCmn5IAIs/Dye4Fl1uo8rOnYoZVbKz0b03zQVkM6hWWc87YBgubly',
+  profileImg: 'Capture03.PNG',
+  timestamp: 2022-05-21T04:56:50.846Z,
+  tokens: [],
+  __v: 0
+}
+null
