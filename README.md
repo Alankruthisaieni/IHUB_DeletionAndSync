@@ -1,6 +1,6 @@
 # DeletionAndSync
 
-This Project is contributed by a team of Two: 
+This Project is contributed by a team of Two: <br/>
 AlankruthiSaieni(https://github.com/Alankruthisaieni)
 SathwikaMuduganti(https://github.com/SathwikaReddy35)
 
