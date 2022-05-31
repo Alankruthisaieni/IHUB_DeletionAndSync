@@ -1,7 +1,7 @@
 # DeletionAndSync
 
 This Project is contributed by a team of Two: <br/>
-AlankruthiSaieni(https://github.com/Alankruthisaieni)
+AlankruthiSaieni(https://github.com/Alankruthisaieni)<br/>
 SathwikaMuduganti(https://github.com/SathwikaReddy35)
 
 # Tasks We had done are:
